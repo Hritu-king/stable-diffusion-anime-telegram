@@ -4,7 +4,7 @@ import base64
 from stablediff import get_ai_image
 import os
 
-token = "5587741514:AAF0e7hu_UyCtTFGQFLIyjnwJwCeSyXObUw"
+token = "6443802455:AAGvtvvv7yBi4lxlnGDH9tR3s_kemDJxnvM"
 '''
 try:
     from config import token
